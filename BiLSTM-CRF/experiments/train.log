@@ -1,0 +1,9 @@
+2022-05-11 11:40:39,243:INFO: device: cuda:0
+2022-05-11 11:40:39,648:INFO: -------- test data process DONE!--------
+2022-05-11 11:40:39,669:INFO: -------- Vocabulary Loaded! --------
+2022-05-11 11:40:45,599:INFO: -------- Process Done! --------
+2022-05-11 11:40:45,927:INFO: -------- Process Done! --------
+2022-05-11 11:40:50,363:INFO: -------- Process Done! --------
+2022-05-11 11:40:50,501:INFO: --------Load model from /mnt/fengguoqiang/nlpclass/BiLSTM-CRF/experiments/model_5.pth--------
+2022-05-11 11:41:17,606:INFO: --------Bad Cases reserved !--------
+2022-05-11 11:41:17,905:INFO: final test loss: 1154.584716796875, f1 score: 0.9651587037670191, precision:0.9662221722087811, recall: 0.9640975737557662

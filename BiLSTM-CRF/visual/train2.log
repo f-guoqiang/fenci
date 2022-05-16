@@ -1,0 +1,34 @@
+2022-04-05 11:38:06,533:INFO: device: cuda:0
+2022-04-05 11:38:06,540:INFO: -------- Vocabulary Loaded! --------
+2022-04-05 11:38:07,471:INFO: -------- Process Done! --------
+2022-04-05 11:38:07,579:INFO: -------- Process Done! --------
+2022-04-05 11:46:17,397:INFO: Kf round: 1, epoch: 1, train loss: 348.40804409980774
+2022-04-05 11:46:48,422:INFO: Kf round: 1, epoch: 1, f1 score: 0.9314764441422041, dev loss: 172.8240234375
+2022-04-05 11:46:48,440:INFO: --------Save best model!--------
+2022-04-05 11:54:57,853:INFO: Kf round: 1, epoch: 2, train loss: 118.84269096602254
+2022-04-05 11:55:29,448:INFO: Kf round: 1, epoch: 2, f1 score: 0.9468194359651488, dev loss: 120.67406412760417
+2022-04-05 11:55:29,465:INFO: --------Save best model!--------
+2022-04-05 12:03:32,471:INFO: Kf round: 1, epoch: 3, train loss: 66.20425287912141
+2022-04-05 12:04:03,634:INFO: Kf round: 1, epoch: 3, f1 score: 0.9499587728526342, dev loss: 109.86990559895834
+2022-04-05 12:04:03,652:INFO: --------Save best model!--------
+2022-04-05 12:12:12,429:INFO: Kf round: 1, epoch: 4, train loss: 30.237441596700183
+2022-04-05 12:12:44,392:INFO: Kf round: 1, epoch: 4, f1 score: 0.9558872273730266, dev loss: 111.17967936197917
+2022-04-05 12:12:44,410:INFO: --------Save best model!--------
+2022-04-05 12:20:48,137:INFO: Kf round: 1, epoch: 5, train loss: 18.034420784062416
+2022-04-05 12:21:19,695:INFO: Kf round: 1, epoch: 5, f1 score: 0.9554128057908401, dev loss: 122.09813639322917
+2022-04-05 12:29:23,588:INFO: Kf round: 1, epoch: 6, train loss: 13.207467223058886
+2022-04-05 12:29:55,350:INFO: Kf round: 1, epoch: 6, f1 score: 0.9543788976988506, dev loss: 132.58230794270833
+2022-04-05 12:37:58,781:INFO: Kf round: 1, epoch: 7, train loss: 7.045252164853598
+2022-04-05 12:38:30,546:INFO: Kf round: 1, epoch: 7, f1 score: 0.9564784855820476, dev loss: 140.61770833333333
+2022-04-05 12:38:30,564:INFO: --------Save best model!--------
+2022-04-05 12:46:33,554:INFO: Kf round: 1, epoch: 8, train loss: 4.212727853944942
+2022-04-05 12:47:04,977:INFO: Kf round: 1, epoch: 8, f1 score: 0.9569441482429326, dev loss: 153.38263346354168
+2022-04-05 12:47:04,995:INFO: --------Save best model!--------
+2022-04-05 12:55:11,553:INFO: Kf round: 1, epoch: 9, train loss: 3.5537938979357038
+2022-04-05 12:55:42,815:INFO: Kf round: 1, epoch: 9, f1 score: 0.9560858193396763, dev loss: 163.38943684895833
+2022-04-05 13:03:51,420:INFO: Kf round: 1, epoch: 10, train loss: 2.2400219975067164
+2022-04-05 13:04:23,197:INFO: Kf round: 1, epoch: 10, f1 score: 0.9572087522176228, dev loss: 168.29358723958333
+2022-04-05 13:04:23,218:INFO: --------Save best model!--------
+2022-04-05 13:12:28,830:INFO: Kf round: 1, epoch: 11, train loss: 1.551649492664902
+2022-04-05 13:13:00,731:INFO: Kf round: 1, epoch: 11, f1 score: 0.9573596997335277, dev loss: 178.799755859375
+2022-04-05 13:13:00,750:INFO: --------Save best model!--------
